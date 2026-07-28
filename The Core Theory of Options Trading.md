@@ -1,10 +1,10 @@
-The Core Theory of Options Trading
+# The Core Theory of Options Trading
 
 Options are financial contracts that give you the right—but not the obligation—to buy or sell a stock at a fixed price (Strike Price) within a specific timeframe. 
 
 Every contract controls 100 shares of the underlying stock.
 
-Call Options: The Right to BUY
+## Call Options: The Right to BUY
 
 When you buy a Call, you are betting the stock price will rise.
 
@@ -20,7 +20,7 @@ Example: If you buy a $100 Strike Call for a $5 premium, your break-even is $105
 
 ************************
 
-Put Options: The Right to SELL
+## Put Options: The Right to SELL
 
 When you buy a Put, you are betting the stock price will fall.
 
