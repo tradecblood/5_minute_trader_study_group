@@ -4,6 +4,8 @@
 
 This repository contains my notes from the **5‑Minute Trader Challenge**.
 
+This is my personal GitHub page, and this content is NOT to be shared.
+
 I’ll continue adding to this over time, including clearer notes on key principles and concepts that may not have been fully covered in the original material.
 
 
