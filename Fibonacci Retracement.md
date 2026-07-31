@@ -1,4 +1,4 @@
-⭐ Your exact workflow (and YES — this is correct)
+⭐ Your exact workflow for using Fibonacci retracement to dinerofy pullback and trade entry
 
 1️⃣ You identify a bullish trend
 You see price pushing upward with momentum.
