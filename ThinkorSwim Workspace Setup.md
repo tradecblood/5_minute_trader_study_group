@@ -1,4 +1,4 @@
-# 5MTC Slower Paced Study Group — thinkorswim Workspace Setup
+# ThinkorSwim Workspace Setup
 
 This guide gets your thinkorswim charts matching the group's standard layout: ES / SPX / /NQ three-panel grid, VWAP, 9/21 EMAs, and the custom cross-signal alert.
 
