@@ -19,14 +19,14 @@ This guide gets your thinkorswim charts matching the group's standard layout: ES
 
 This should bring in the chart grid layout, symbols, timeframes, and built-in studies (VWAP, 9 EMA, 21 EMA, VolumeAvg).
 
-**Note:** custom studies don't always transfer reliably through shared workspace links. After importing, check your **SPX chart** — if you don't see green/red arrows marking EMA crosses, follow Step 2 below to add it manually.
+**Note:** custom studies don't always transfer reliably through shared workspace links. After importing, check your **ES chart** on the left-hand-side — if you don't see green/red arrows marking EMA crosses, follow Step 2 below to add it manually.
 
 ---
 
 ## Step 2: Add the Custom EMA 9/21 Cross Signal Study
 
 1. On any chart, click the **Studies** icon (flask icon, top right)
-2. Click **Edit Studies and Strategies**
+2. Click **Edit Studies**. A window called **Edit Studies and Strategies** will open.
 3. Click **Create** (bottom left of the dialog)
 4. Name it exactly: `EMA_9_21_Cross_Signal`
 5. Delete any placeholder code in the editor, and paste the following:
@@ -57,7 +57,7 @@ Alert(fastEMA crosses below midEMA, "9/21 EMA Bear Cross", Alert.BAR, Sound.Ding
 ```
 
 6. Click **OK** to save it
-7. Back on your **SPX chart**, click **Studies → Add Study → Custom** → find `EMA_9_21_Cross_Signal` → add it
+7. Back on your **ES, SPX and SPY charts**, click **Studies** (flask incon) **→ Add Study → Custom** → find `EMA_9_21_Cross_Signal` → add it
 
 ---
 
@@ -65,7 +65,7 @@ Alert(fastEMA crosses below midEMA, "9/21 EMA Bear Cross", Alert.BAR, Sound.Ding
 
 | Chart | Studies |
 |---|---|
-| **ES** | VWAP (-2.0 / 2.0, DAY), VolumeAvg (50) |
+| **ES** | VWAP (-2.0 / 2.0, DAY), VolumeAvg (50), EMA_9_21_Cross_Signal |
 | **SPX** | EMA (9, close), EMA (21, close), EMA_9_21_Cross_Signal |
 | **/NQ** | Optional: same as ES |
 
@@ -73,4 +73,4 @@ Alert(fastEMA crosses below midEMA, "9/21 EMA Bear Cross", Alert.BAR, Sound.Ding
 
 ---
 
-*Questions? Drop them in the group chat — this is a study group, we're all figuring this out together.*
+*Questions? Drop them in the Facebook group  — this is a study group, we're all figuring this out together.*
