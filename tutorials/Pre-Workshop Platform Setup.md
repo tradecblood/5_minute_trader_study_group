@@ -107,7 +107,11 @@ As mentioned above, you can set both values to the same number.
 
 ## Step 3: TradingView (quick — just create the account for now)
 
-Go to TradingView and set up a free account so it's ready to go. We'll build out chart layouts, indicators, and drawing tools together, live, on the 9th — no need to configure anything yet, just get the account created.
+Go to TradingView and set up a free account so it's ready to go. We'll build out chart layouts, indicators, and drawing tools together, live — no need to configure anything yet, just get the account created.
+
+- Optionally, you can sign up for the TradingView subscription here:
+- You will also need an additional subscription to have live prices on your chart - which is essential if you want to use TradingView for  your technical analssi when live or paper trading.
+- You can **use our admins discount link here for $15 off**:
 
 ---
 
