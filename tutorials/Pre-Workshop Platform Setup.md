@@ -1,9 +1,9 @@
-# Pre-Workshop Platform Setup — Do This WELL BEFORE Aug 9th 🛠️
+# Pre-Workshop Platform Setup — Do This BEFORE Aug 9th 🛠️
 
 **Workshop:** Platform Setup — August 9th, 2026, 4:00 PM EST
-**Bring:** Your laptop, fully charged, with these steps already done (or at least started)
+**Bring:** Your laptop, fully charged, with these steps already done 
 
-This guide walks through every click to setting up our trading and charting platforms. We're getting the "boring" account-opening and install steps out of the way now (some of it takes a few days to process), so our time together on Augusr 9th goes toward actually learning the platforms, not waiting on approval emails.
+This guide walks through every click to setting up our trading and charting platforms ahead of our workshop. We're getting the "boring" account-opening and install steps out of the way now (some of it takes a few days to process), so our time together on August 9th goes toward actually learning the platforms and troubleshooting any issues, not waiting on approval emails.
 
 ---
 
@@ -19,7 +19,7 @@ You can still paper trade while waiting for account verification.
 3. Fill in your personal details as prompted (name, address, Social Security Number, employment info, etc.) — this is standard for any brokerage account and Schwab needs it to verify your identity
 
 
-📍 **Outside the US?** Visit **[international.schwab.com/open-account-intro](https://international.schwab.com/open-account-intro)** instead, click "Open an account," and use the dropdown to check whether Schwab is available where you live. If it's not, suggested alternatives were Interactive Brokers, Questrade, TastyTrade, or Tradezero. One thing to know: the automated script only works with Schwab/thinkorswim — but that's fine. 
+📍 **Outside the US?** Visit **[international.schwab.com/open-account-intro](https://international.schwab.com/open-account-intro)** instead, click "Open an account," and use the dropdown to check whether Schwab is available where you live. If it's not, suggested alternatives were Interactive Brokers, Questrade, TastyTrade, or Tradezero. One thing to know: the automated workspace script only works with Schwab/thinkorswim — but that's fine. 
 
 ---
 
