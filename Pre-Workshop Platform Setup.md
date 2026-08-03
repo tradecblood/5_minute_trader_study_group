@@ -1,31 +1,31 @@
-# Pre-Workshop Platform Setup — Do This Before Aug 9th 🛠️
+# Pre-Workshop Platform Setup — Do This WELL BEFORE Aug 9th 🛠️
 
 **Workshop:** Platform Setup — August 9th, 2026, 4:00 PM EST
 **Bring:** Your laptop, fully charged, with these steps already done (or at least started)
 
-Zero trading experience? No problem — this guide walks through every click. We're getting the "boring" account-opening and install steps out of the way now (some of it takes a few days to process), so our hour together on the 9th goes toward actually learning the platforms, not waiting on approval emails.
+This guide walks through every click to setting up our trading and charting platforms. We're getting the "boring" account-opening and install steps out of the way now (some of it takes a few days to process), so our time together on Augusr 9th goes toward actually learning the platforms, not waiting on approval emails.
 
 ---
 
 ## Step 1: Open Your Charles Schwab Account
 
 **Start this one first — options approval can take a few business days to come back.**
+You usually get an instant account approval, but full verification takes longer.
+For international account, there is currently a long waist list for account verification.
+You can still paper trade while waiting for account verification. 
 
 1. Go to **[www.schwab.com](https://www.schwab.com)**
-2. Click to open a new account, and choose a **regular taxable brokerage account** (this is the standard, everyday investing account — not a retirement/IRA account)
-3. Fill in your personal details as prompted (name, address, SSN, employment info, etc.) — this is standard for any brokerage account and Schwab needs it to verify your identity
+2. Click to open a new account, and choose a **individual brokerage account** (this is the standard, everyday investing account — not a retirement/IRA account). You can choose to open those separately if you wish. 
+3. Fill in your personal details as prompted (name, address, Social Security Number, employment info, etc.) — this is standard for any brokerage account and Schwab needs it to verify your identity
 
-Here's the reference slide from Heather's presentation showing where to start:
 
-![Opening a Charles Schwab account](step1_open_account.png)
-
-📍 **Outside the US?** Visit **international.schwab.com** instead, click "Open an account," and use the dropdown to check whether Schwab is available where you live. If it's not, Heather's suggested alternatives are Interactive Brokers, Questrade, TastyTrade, or Tradezero. One thing to know: the automated script only works with Schwab/thinkorswim — if you're on a different broker, you'll be using TradingView instead for charting.
+📍 **Outside the US?** Visit **[international.schwab.com/open-account-intro](https://international.schwab.com/open-account-intro)** instead, click "Open an account," and use the dropdown to check whether Schwab is available where you live. If it's not, suggested alternatives were Interactive Brokers, Questrade, TastyTrade, or Tradezero. One thing to know: the automated script only works with Schwab/thinkorswim — but that's fine. 
 
 ---
 
 ### Applying for Options Trading — What to Enter
 
-Partway through opening your account (or as a follow-up step once it's open), you'll be asked to fill out a questionnaire about your trading experience. This is what decides which "options approval level" you get — i.e., what kinds of options trades you're allowed to place.
+Partway through opening your account, you'll be asked to fill out a questionnaire about your trading experience. This is what decides which "options approval level" you get — i.e., what kinds of options trades you're allowed to place.
 
 Here's what that section of the form actually looks like:
 
