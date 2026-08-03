@@ -63,10 +63,11 @@ Once submitted, Schwab typically reviews and approves (or asks follow-up questio
 **Do this once your Schwab account is active** (you don't need Level 1 options approval to finish this step — you can install and log in while that's still pending).
 
 1. Download **[thinkorswim desktop](https://www.schwab.com/trading/thinkorswim/download?msockid=0bd303fa968f613d0dcd116a976f607b)** from Schwab's website. It will download the thinkorswim desktop application on your laptop. This cannot be done on a cell phone, but you can use the thinkorswim app instead (it will not have the exact same user interface as the desktop version).
-2. Before logging in, you'll land on a setup screen like the one screenshot below. Select 'paperMoney'. Then, click on the settings icon on the bottom left.
+   
+3. Before logging in, you'll land on a setup screen like the one screenshot below. Select 'paperMoney'. Then, click on the settings icon on the bottom left.
    ![ThinkorSwim setup screen](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/images/thinkorswim_login_screen.png)
 
-3. After you click on the setting icon, you'll land on a window like the one screenshot below.
+4. After you click on the setting icon, you'll land on a window like the one screenshot below.
    ![ThinkorSwim memory usage](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/images/thinkorswim_login_screen.png)
 
 Here's what each field means and what to put:
@@ -109,9 +110,9 @@ As mentioned above, you can set both values to the same number.
 
 Go to TradingView and set up a free account so it's ready to go. We'll build out chart layouts, indicators, and drawing tools together, live — no need to configure anything yet, just get the account created.
 
-- Optionally, you can sign up for the TradingView subscription here:
-- You will also need an additional subscription to have live prices on your chart - which is essential if you want to use TradingView for  your technical analssi when live or paper trading.
-- You can **use our admins discount link here for $15 off**:
+- Optionally, you can sign up for the TradingView subscription here: [TradingView subscription sign-up](https://www.tradingview.com/pricing/) The cheapest plan is around $12.95.
+- You will also need an additional subscription to have live prices on your chart - which is **essential** if you want to use TradingView for  your technical analysis and charting when live or paper trading. But, if your goal is to learn the strategy first, the free version is just fine. The link to subscribe is here, then select "CME Group (E-mini included) CME, CBOT, COMEX, NYMEX"  [subscribe to thinkorswim cme live price data](https://www.tradingview.com/cme/)
+- You can **use our admins discount link here for $15 off your subscription**: [Get $15 off TradingView subscription](https://www.tradingview.com/pricing/?share_your_love=teamblood)
 
 ---
 
