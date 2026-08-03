@@ -29,7 +29,7 @@ Partway through opening your account, you'll be asked to fill out a questionnair
 
 Here's what that section of the form actually looks like:
 
-![Schwab experience level questions](tutorials/images/charles_swaab_trading_experience_levels_example.png)
+![Schwab experience level questions](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/images/charles_swaab_trading_experience_levels_example.png)
 
 That screenshot shows what was entered for this section. Here's it broken out field-by-field:
 
