@@ -46,7 +46,7 @@ That screenshot shows what was entered for this section. Here's it broken out fi
 | Bonds | Knowledge level | Decline to answer |
 | Commodities | Knowledge level | Decline to answer |
 
-**A quick, honest note on this:** those numbers are a the experience level that the training challenge informed us was required for account approval, not a script for you have to copy word-for-word. Other users have entered their experience level as "Good" and still been accepted. Schwab wants *your* real answers here. 
+**A quick, honest note on this:** those numbers are the experience level that the trader challenge informed us was required for account approval, not necessarily a script for you have to copy word-for-word. Other users have entered their experience level as "Good" and still been accepted. This is *your* answers here. 
 
 - **Bonds & Commodities** — select **"Decline to answer"** for both unless you already trade those separately (most of us will select this)
 
