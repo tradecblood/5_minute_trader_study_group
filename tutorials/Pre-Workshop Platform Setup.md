@@ -64,7 +64,7 @@ Once submitted, Schwab typically reviews and approves (or asks follow-up questio
 
 1. Download **[thinkorswim desktop](https://www.schwab.com/trading/thinkorswim/download?msockid=0bd303fa968f613d0dcd116a976f607b)** from Schwab's website. It will download the thinkorswim desktop application on your laptop. This cannot be done on a cell phone, but you can use the thinkorswim app instead (it will not have the exact same user interface as the desktop version).
 2.  Open it and log in using your Schwab account username and password
-5. If you bought the Starter Kit (which includes a ready-made script) — or if you built your own custom script — this is where you'll upload it, inside thinkorswim. You can find the custom script built by our group here:  ![ThinkorSwim Workspace Setup](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/ThinkorSwim Workspace Setup.md)
+5. If you bought the Starter Kit (which includes a ready-made script) — or if you built your own custom script — this is where you'll upload it, inside thinkorswim. You can find the custom script built by our group here:  ![ThinkorSwim Workspace Setup](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/thinkorswim_workspace_setup.md)
 
 7. Before logging in, you'll land on a setup screen like the one screenshot below. Select 'paperMoney'. Click on the settings button
    ![ThinkorSwim setup screen](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/images/thinkorswim_login_screen.png)
