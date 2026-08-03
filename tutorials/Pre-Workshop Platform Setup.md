@@ -63,12 +63,11 @@ Once submitted, Schwab typically reviews and approves (or asks follow-up questio
 **Do this once your Schwab account is active** (you don't need Level 1 options approval to finish this step — you can install and log in while that's still pending).
 
 1. Download **[thinkorswim desktop](https://www.schwab.com/trading/thinkorswim/download?msockid=0bd303fa968f613d0dcd116a976f607b)** from Schwab's website. It will download the thinkorswim desktop application on your laptop. This cannot be done on a cell phone, but you can use the thinkorswim app instead (it will not have the exact same user interface as the desktop version).
-2.  Open it and log in using your Schwab account username and password
-5. If you bought the Starter Kit (which includes a ready-made script) — or if you built your own custom script — this is where you'll upload it, inside thinkorswim. You can find the custom script built by our group here:  ![ThinkorSwim Workspace Setup](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/thinkorswim_workspace_setup.md)
-
-7. Before logging in, you'll land on a setup screen like the one screenshot below. Select 'paperMoney'. Click on the settings button
+2. Before logging in, you'll land on a setup screen like the one screenshot below. Select 'paperMoney'. Then, click on the settings icon on the bottom left.
    ![ThinkorSwim setup screen](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/images/thinkorswim_login_screen.png)
 
+3. After you click on the setting icon, you'll land on a window like the one screenshot below.
+   ![ThinkorSwim memory usage](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/images/thinkorswim_login_screen.png)
 
 Here's what each field means and what to put:
 
@@ -78,7 +77,7 @@ Here's what each field means and what to put:
 | **Language** | Display language | English |
 | **Color Scheme** | Light or dark theme | Dark (most of us use this — but pick whichever is easier on your eyes) |
 | **Proxy** | Network routing setting most people never touch | Leave blank, unless your work/school network specifically requires one |
-| **Memory Usage (MB)** | How much of your computer's memory (RAM) thinkorswim is allowed to use | See below 👇 |
+| **Memory Usage (MB)** | How much of your computer's memory (RAM) thinkorswim is allowed to use. This takes both a minimum and maximum figure. Set them to the same value. | See below 👇 |
 
 **Memory Usage — how to pick a number:**
 
@@ -95,10 +94,15 @@ Here's what each field means and what to put:
 
 Don't set it to your full RAM amount — leave some room for your browser, Zoom, email, etc. to keep running smoothly at the same time. (The number in the screenshot above is just what worked on one specific laptop — base yours on your own machine, not that exact figure.)
 
+As mentioned above, you can set both values to the same number.
+
+
 3. Click **Save**.
-
-💡 If thinkorswim ever runs slow or acts glitchy later on, come back to this same screen and click **"Clear cache and restart"** — that fixes most hiccups.
-
+   💡 If thinkorswim ever runs slow or acts glitchy later on, come back to this same screen and click **"Clear cache and restart"** — that fixes most hiccups.
+   
+5.  Go back to the thinkorswim login page. Log in using your Charles Schwab account username and password
+6. If you bought the Starter Kit (which includes a ready-made script) — or if you built your own custom script — this is where you'll upload it, inside thinkorswim. You can find the custom script built by our group here:  ![ThinkorSwim Workspace Setup](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/thinkorswim_workspace_setup.md)
+   
 ---
 
 ## Step 3: TradingView (quick — just create the account for now)
