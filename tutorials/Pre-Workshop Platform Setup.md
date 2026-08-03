@@ -110,7 +110,7 @@ As mentioned above, you can set both values to the same number.
 
 Go to TradingView and set up a free account so it's ready to go. We'll build out chart layouts, indicators, and drawing tools together, live — no need to configure anything yet, just get the account created.
 
-- Optionally, you can sign up for the TradingView subscription here: [TradingView subscription sign-up](https://www.tradingview.com/pricing/) The cheapest plan is around $12.95.
+- Optionally, you can sign up for the TradingView subscription here: [TradingView subscription sign-up](https://www.tradingview.com/pricing/) The cheapest plan is fine.
 - You can **use our admins discount link here for $15 off your subscription**: [Get $15 off TradingView subscription](https://www.tradingview.com/pricing/?share_your_love=teamblood)
 - You will also need an additional subscription to have live prices on your chart - which is **essential** if you want to use TradingView for  your technical analysis and charting when live or paper trading. But, if your goal is to learn the strategy first, the free version is just fine. The link to subscribe is here, then select "CME Group (E-mini included) CME, CBOT, COMEX, NYMEX". You **must** have a TradingView subscription first before you can subscribe to live price data here:  [subscribe to thinkorswim cme live price data](https://www.tradingview.com/cme/)
 
