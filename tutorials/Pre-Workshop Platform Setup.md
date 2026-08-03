@@ -46,16 +46,13 @@ That screenshot shows what was entered for this section. Here's it broken out fi
 | Bonds | Knowledge level | Decline to answer |
 | Commodities | Knowledge level | Decline to answer |
 
-**A quick, honest note on this:** those numbers are what showed up on the screen we captured — they're one example, not a script for you to copy word-for-word regardless of your own background. Schwab wants *your* real answers here. If you're brand new, it's fine to say so (e.g., "Limited" knowledge, 0 years). Fill in:
-- **Knowledge level** — whatever honestly matches you: Limited, Good, or Extensive
-- **Years of experience** — your real number (0 is fine if you're just starting)
-- **Average trades per year** — a realistic guess at how often you think you'll trade (even something like 10–20 is completely normal to enter)
-- **Average trade amount** — the real dollar amount you plan to risk per trade, rounded to the nearest thousand (for a lot of us starting out, this might be under $1,000 — that's okay)
+**A quick, honest note on this:** those numbers are a the experience level that the training challenge informed us was required for account approval, not a script for you have to copy word-for-word. Other users have entered their experience level as "Good" and still been accepted. Schwab wants *your* real answers here. 
+
 - **Bonds & Commodities** — select **"Decline to answer"** for both unless you already trade those separately (most of us will select this)
 
 > ⚠️ **Most important step in this whole section:** When the form asks you to choose an **options trading level / strategy**, select **Level 1 — Long Calls & Puts**.
 >
-> This is the level that lets you *buy* calls and puts — exactly what our 5-minute strategy does. You do **not** need Level 2 (spreads) or Level 3 (uncovered options). Those unlock more complex, riskier strategies we're not using, so there's no reason to apply for them.
+> This is the level that lets you *buy* calls and puts — exactly what the 5-minute strategy does. You do **not** need Level 2 (spreads) or Level 3 (uncovered options). Those unlock more complex, riskier strategies we're not using, so there's no reason to apply for them.
 
 Once submitted, Schwab typically reviews and approves (or asks follow-up questions) within a few business days — this is why we want this done *before* the workshop, not during it.
 
