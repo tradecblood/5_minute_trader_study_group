@@ -57,7 +57,7 @@ Alert(fastEMA crosses below midEMA, "9/21 EMA Bear Cross", Alert.BAR, Sound.Ding
 ```
 
 6. Click **OK** to save it
-7. Back on your **ES, SPX and SPY charts**, click **Studies** (flask incon) **→ Add Study → Custom** → find `EMA_9_21_Cross_Signal` → add it
+7. Back on your **ES, SPX and SPY charts**, click **Studies** (flask incon) → **Edit Studies** → find `EMA_9_21_Cross_Signal` using the search box on the top left → Click **Add selected** on the bottom left 
 
 ---
 
