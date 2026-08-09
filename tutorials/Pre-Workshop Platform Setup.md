@@ -102,7 +102,7 @@ As mentioned above, you can set both values to the same number.
    💡 If thinkorswim ever runs slow or acts glitchy later on, come back to this same screen and click **"Clear cache and restart"** — that fixes most hiccups.
    
 5.  Go back to the thinkorswim login page. Log in using your Charles Schwab account username and password
-6. If you bought the Starter Kit (which includes a ready-made script) — or if you built your own custom script — this is where you'll upload it, inside thinkorswim. You can find the custom script built by our group here:  ![ThinkorSwim Workspace Setup](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/thinkorswim_workspace_setup.md)
+6. If you bought the Starter Kit (which includes a ready-made script) — or if you built your own custom script — this is where you'll upload it, inside thinkorswim. You can find the custom script built by our group and instructions on how to install it here:  ![ThinkorSwim Workspace Setup](https://raw.githubusercontent.com/tradecblood/5_minute_trader_study_group/main/tutorials/thinkorswim_workspace_setup.md)
    
 ---
 
