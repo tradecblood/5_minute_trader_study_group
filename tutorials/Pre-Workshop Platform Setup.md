@@ -60,6 +60,8 @@ Once submitted, Schwab typically reviews and approves (or asks follow-up questio
 
 ## Step 2: Install ThinkorSwim
 
+** It's VERY IMPORTANT to note that you MUST install the ThinkorSwim desktop application. The mobile app version does not have all the functionality we need below. **
+
 **Do this once your Schwab account is active** (you don't need Level 1 options approval to finish this step — you can install and log in while that's still pending).
 
 1. Download **[thinkorswim desktop](https://www.schwab.com/trading/thinkorswim/download?msockid=0bd303fa968f613d0dcd116a976f607b)** from Schwab's website. It will download the thinkorswim desktop application on your laptop. This cannot be done on a cell phone, but you can use the thinkorswim app instead (it will not have the exact same user interface as the desktop version).
