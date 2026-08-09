@@ -19,7 +19,10 @@ This guide gets your thinkorswim charts matching the group's standard layout: ES
 
 This should bring in the chart grid layout, symbols, timeframes, and built-in studies (VWAP, 9 EMA, 21 EMA, VolumeAvg).
 
+6. Your home screen will now load. click on  **Setup** on the top right again. At the bottom, you will now see **"trading study group workspace"**. click on it. Your charts will now load on the **chart** tab. 
+   
 **Note:** custom studies don't always transfer reliably through shared workspace links. After importing, check your **ES chart** on the left-hand-side — if you don't see green/red arrows marking EMA crosses, follow Step 2 below to add it manually.
+
 
 ---
 
