@@ -60,7 +60,7 @@ Once submitted, Schwab typically reviews and approves (or asks follow-up questio
 
 ## Step 2: Install ThinkorSwim
 
-** It's VERY IMPORTANT to note that you MUST install the ThinkorSwim desktop application. The mobile app version does not have all the functionality we need below. **
+** It's **VERY IMPORTANT** to note that you MUST install the ThinkorSwim desktop application. The mobile app version does not have all the functionality we need below. **
 
 **Do this once your Schwab account is active** (you don't need Level 1 options approval to finish this step — you can install and log in while that's still pending).
 
