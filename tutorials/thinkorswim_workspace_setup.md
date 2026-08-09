@@ -6,7 +6,7 @@ This guide gets your thinkorswim charts matching the group's standard layout: ES
 
 ## Step 1: Import the Shared Workspace
 
-1. Open thinkorswim
+1. Open thinkorswim. It's important to follow the below instructions in *both* the live trading and paperMoney versions of ThinkorSwim, so you have the script loaded in both.
 2. Click **Setup** (top-right corner)
 3. Select **Open shared item...**
 4. Paste this link into the **Shared item URL** field:
