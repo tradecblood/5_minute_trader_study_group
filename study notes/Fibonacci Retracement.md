@@ -15,11 +15,13 @@ This prevents chasing and gives you a pullback opportunity.
 
 Draw from point A to point B:
 
-*Bullish setup*
+**Bullish setup**
+
 A = low of breakout candle
 B = high of breakout candle
 
-*Bearish setup*
+**Bearish setup**
+
 A = high of breakout candle
 B = low of breakout candle
 
