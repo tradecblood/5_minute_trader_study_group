@@ -1,4 +1,4 @@
-⭐ Your exact workflow for using Fibonacci retracement to dinerofy pullback and trade entry
+⭐  Fibonacci retracement to identify  pullback and trade entry in the 5-min strategy
 
 1️⃣ You identify a bullish trend
 You see price pushing upward with momentum.
